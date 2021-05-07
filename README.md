@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi There 👋
+My name is willamys, i'm new to the dev world! More is one step at a time !!!
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=F">
+
 
 <!--
 **WillamysFernandes/WillamysFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
