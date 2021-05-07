@@ -4,7 +4,7 @@ My name is willamys, i'm new to the dev world! More is one step at a time !!!
 ### You can find me on the following social networks
 
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
 ### Tech & Tools Preference
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [instagram]: https://www.instagram.com/willamysx7/
+[linkedin]: https://www.linkedin.com/in/willamys-fernandes-707aba124/
