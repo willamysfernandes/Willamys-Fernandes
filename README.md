@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[instagram]: https://www.instagram.com/willamyspx7/
+[instagram]: https://www.instagram.com/willamysxp7/
 [linkedin]: https://www.linkedin.com/in/willamys-fernandes-707aba124/
